@@ -1,10 +1,7 @@
-gradio
 xgboost
 scikit-learn
 pandas
 numpy
-mlflow
-datasets
 joblib
-matplotlib
-seaborn
+gradio
+mlflow
